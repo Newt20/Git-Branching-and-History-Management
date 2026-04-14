@@ -29,7 +29,7 @@ Create a git repo and clone the project. Then initialize the project by creating
 ![Finalized Commit History Management](images/finalized-commit-history-management.png)
 
 ### 9. GitHub Pull Request
-![GitHub PR](images/github-pr.png)
+![GitHub PR ](images/github-pr-and-merge.png)
 
 
 ## 🔀 Merge Strategy
