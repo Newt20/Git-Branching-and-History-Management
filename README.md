@@ -32,6 +32,8 @@ Create a git repo and clone the project. Then initialize the project by creating
 ![GitHub PR ](images/github-pr-and-merge.png)
 
 
+Industry followed Strategy and Important commit related conecepts. 
+
 ## 🔀 Merge Strategy
 
 **Merge** is a non‑destructive operation that preserves the complete history of the project.  
