@@ -1,6 +1,37 @@
 # Git-Branching-and-History-Management
 Enterprise Level Git workflow, git branching, history management. What is Merge &amp; Rebase, Squash &amp; Reword? 
 
+## 📸 Screenshots
+
+### 1. Git Initialization
+Create a git repo and clone the project. Then initialize the project by creating branches.
+![Git Initialization](images/git-initialization.png)
+
+### 2. Create New Branches
+![Git Create New Branches](images/git-create-new-branches.png)
+
+### 3. Branch Merge
+![Git Branch Merge](images/git-branch-merge.png)
+
+### 4. Branch Rebase
+![Git Branch Rebase](images/git-branch-rebase.png)
+
+### 5. Create 5 Commits
+![Create 5 Commits](images/create-5-commits.png)
+
+### 6. Squash and Reword Commits
+![Squash and Reword Commits](images/squash-and-reword-commits.png)
+
+### 7. Squash and Reword Commits (Second Example)
+![Squash and Reword Commits 2](images/squash-and-reword-commits-2.png)
+
+### 8. Finalized Commit History Management
+![Finalized Commit History Management](images/finalized-commit-history-management.png)
+
+### 9. GitHub Pull Request
+![GitHub PR](images/github-pr.png)
+
+
 ## 🔀 Merge Strategy
 
 **Merge** is a non‑destructive operation that preserves the complete history of the project.  
