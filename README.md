@@ -1,5 +1,5 @@
 # Git-Branching-and-History-Management
-Enterprise Level Git workflow, git branching, history management. What is Merge &amp; Rebase, Squash &amp; Reword? 
+Enterprise Level Git workflow, git branching, history management, pr. We also have answered some important questions, as such: What is Merge &amp; Rebase, Squash &amp; Reword? 
 
 ## 📸 Screenshots
 
